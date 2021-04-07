@@ -1,4 +1,4 @@
-#tsparticles {
+#particles-js {
   background: $main;
   display: flex;
   vertical-align: bottom;
@@ -7,7 +7,7 @@
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
-  .tsparticles-canvas-el {
+  .particles-js-canvas-el {
     width:100% !important;
     height:100vh !important;
   }
